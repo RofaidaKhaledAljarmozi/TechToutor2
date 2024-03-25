@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574764203669",
+    "project_id": "techtutor-a13bd",
+    "storage_bucket": "techtutor-a13bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574764203669:android:d71616ba26bd1171a5a59c",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjfJ3-Swf37V8oAcoMD_MVTFSXeVe9ubE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
